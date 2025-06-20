@@ -12,7 +12,7 @@ This is a **Day 4** project of my `#100DaysOfCode` challenge — a clone of the 
 
 ## 📸 Screenshot
 
-![Screenshot](Final_Look.png)
+![Screenshot](20250620_080937.jpg)
 
 ## 🛠️ Built With
 
@@ -22,9 +22,9 @@ This is a **Day 4** project of my `#100DaysOfCode` challenge — a clone of the 
 ## 📁 Folder Structure
 
 ```plaintext
-AmazonClone/
+main/
 │
 ├── index.html
 ├── style.css
-├── /images  (optional: if you used images)
+├── all images in main
 └── README.md
